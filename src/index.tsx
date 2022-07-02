@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import background from './Assets/bg.svg';
 
 ReactDOM.render(
   <React.StrictMode>
